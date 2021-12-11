@@ -1,4 +1,4 @@
-- 👋 Greeting peeps, I’m pratamansha a.k.a sh@rpid, you can call me as Yan, Iyan, Sa, and etc.
+- 👋 Greeting peeps, I’m Iyan a.k.a sharptitle.
 - I’m interested in C, C++, Phyton, java, and HTML programming... and you 👀 *uhmm
 -
 - "There are no secrets to success. It is the result of preparation, hard work, and learning from failure ~ Colin Powell"
