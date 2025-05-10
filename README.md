@@ -1,7 +1,8 @@
-- 👋 Greeting peeps, I’m Iyan a.k.a sharptitle.
-- I’m interested in C, C++, Phyton, java, and HTML programming... and you 👀 *uhmm
--
-- "There are no secrets to success. It is the result of preparation, hard work, and learning from failure ~ Colin Powell"
+- 👋 Greeting peeps, I’m Yansha a.k.a sharptitle.
+- I’m interested in C, C++ and Phyton programming... and you 👀 *uhmm
+- Basically, I'm a control and computer engineer focused on automation, AI, and robotic systems.
+
+- "Trust yourself, it can be the biggest path to success"
 ------------------------------------------------------------------------------------------------------------------------
 <!---
 pratamansha/pratamansha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
